@@ -1,8 +1,6 @@
 # Advtage releases
 
-Public **Windows installers and auto-update files** for [Advtage](https://dylan-griffin.github.io/advtage-site/) — a local TTRPG table app (Tauri).
-
-> Site is moving to **[https://advtage.github.io/](https://advtage.github.io/)** (GitHub org Pages). Until that is live, use the link above.
+Public **Windows installers and auto-update files** for [Advtage](https://advtage.github.io/) — a local TTRPG table app (Tauri).
 
 ## What this repo is
 - **Installers / updater assets only** (NSIS `.exe`, `.sig`, `latest.json`, etc.)
@@ -17,7 +15,8 @@ Public **Windows installers and auto-update files** for [Advtage](https://dylan-
 If you found this by accident: you can download a release asset, but please only use builds Dylan shared with you.
 
 ## Links
-- **Website:** [dylan-griffin.github.io/advtage-site](https://dylan-griffin.github.io/advtage-site/) → soon [advtage.github.io](https://advtage.github.io/)
+- **Website:** [advtage.github.io](https://advtage.github.io/)
+- **Legacy site URL** (redirects): [dylan-griffin.github.io/advtage-site](https://dylan-griffin.github.io/advtage-site/)
 - **Support / tips:** [ko-fi.com/advtage](https://ko-fi.com/advtage)
 - **Discord:** [discord.gg/P9cmzxJrYT](https://discord.gg/P9cmzxJrYT)
 - **Socials:** [YouTube](https://www.youtube.com/@advtagevtt) · [Instagram](https://www.instagram.com/advtagevtt) · [TikTok](https://www.tiktok.com/@advtagevtt) · [X](https://x.com/AdvtageVTT)
